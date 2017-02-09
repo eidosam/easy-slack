@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/eidosam/easy-slack/issues"
   },
-  "homepage": "https://github.com/eidosam/easy-slack#readme"
+  "homepage": "https://github.com/eidosam/easy-slack#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.79.0"
+  }
 }
